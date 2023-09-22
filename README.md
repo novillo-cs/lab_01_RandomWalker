@@ -1,4 +1,4 @@
-# lab_01_RandomWalker
+# Lab 01: RandomWalker
 
 **Group Name:**
 
