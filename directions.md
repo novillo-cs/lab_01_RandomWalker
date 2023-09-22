@@ -14,5 +14,4 @@ starting point), treating the starting point as the origin (0, 0). Finally, prin
    
 4. Write at least one paragrath explaining your solution in the file solution.txt. Please be clear.
    
-5. Write the java program RandomWalker. You will probably need to generate a ranmdom number. Use this: double randomNum = Math.random();
-  
+5. Write the java program RandomWalker. You will probably need to generate a random number. Use this: double randomNum = Math.random();
