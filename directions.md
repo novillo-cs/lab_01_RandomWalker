@@ -10,7 +10,7 @@ starting point), treating the starting point as the origin (0, 0). Finally, prin
     ![image](https://github.com/novillo-cs/lab_01_RandomWalker/assets/123229891/dcedb5a8-3280-404b-b9d9-fce8f20f3e87)
 
 
-3. Discuss with your partner about an optimal possible solution.
+3. Discuss with your partner about an optimal possible solution. **DO NOT WRITE ANY CODE YET.**
    
 4. Write at least one paragrath explaining your solution in the file solution.txt. Please be clear.
    
