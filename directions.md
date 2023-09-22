@@ -7,9 +7,12 @@
     Write a program RandomWalker.java that takes an integer user input n and simulates the motion of a random walk for n steps. Print the location at each step (including the
 starting point), treating the starting point as the origin (0, 0). Finally, print the square of the final Euclidean distance from the origin.
 
-2. Discuss with your partner about an optimal possible solution.
+    ![image](https://github.com/novillo-cs/lab_01_RandomWalker/assets/123229891/dcedb5a8-3280-404b-b9d9-fce8f20f3e87)
+
+
+3. Discuss with your partner about an optimal possible solution.
    
-3. Write at least one paragrath explaining your solution in the file solution.txt. Please be clear.
+4. Write at least one paragrath explaining your solution in the file solution.txt. Please be clear.
    
-4. Write the java program RandomWalker. You will probably need to generate a ranmdom number. Use this: double randomNum = Math.random();
+5. Write the java program RandomWalker. You will probably need to generate a ranmdom number. Use this: double randomNum = Math.random();
   
