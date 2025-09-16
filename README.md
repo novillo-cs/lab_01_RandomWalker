@@ -1,9 +1,7 @@
 # Lab 01: RandomWalker
 
-**Group Name:**
-
-**Collaborators:**
+**Name:**
 
 **Period:**
 
-**Emails:**
+**Email:**
