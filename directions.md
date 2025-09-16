@@ -16,3 +16,5 @@
 5. Write the java program `RandomWalker`. You will probably need to generate a random number. Use this: `double randomNum = Math.random();`
 
 You may take a look at some Math.random() examples [here](https://www.geeksforgeeks.org/java-math-random-method-examples/).
+
+6. **IMPORTANT:** You must have at least one commit from home.
